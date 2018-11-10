@@ -1,3 +1,1 @@
 # spaghetti
-
-Hello World translator
